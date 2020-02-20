@@ -1,0 +1,14 @@
+{
+  "name": "download-geth",
+  "version": "1.9.11",
+  "author": "pinkiebell",
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkiebell/download-geth"
+  }
+}
